@@ -16,9 +16,5 @@ O aplicativo utiliza o framework Flask para criar a interface web e a interaçã
 - Personalização flexível para acomodar diferentes cenários de migração.
 - Possibilidade de expansão com recursos adicionais, como logs detalhados e gerenciamento de migrações anteriores.
 
-## Como Usar
 
-...
-
-(Continue com as instruções de uso, conforme o exemplo de README anterior)
 
